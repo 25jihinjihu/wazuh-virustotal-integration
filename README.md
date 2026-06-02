@@ -36,6 +36,21 @@ The implementation was validated using the EICAR test file, successfully generat
 - SOC Operations
 - Alert Analysis
 - Incident Investigation
+  
+## Documentation
+
+The complete project report will be available in the `docs` folder after final review and submission.
+
+## Screenshots
+
+Project screenshots are available in the `screenshots` folder and include:
+
+- Wazuh Agent Connection
+- VirusTotal Integration Configuration
+- Custom Rule Configuration
+- Malware Detection Alert
+- Wazuh Dashboard Visualization
+
 
 ## Author
 
